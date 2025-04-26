@@ -10,8 +10,8 @@ const projects = [
       link: "https://fajarsaleem14.github.io/VogueNest/"
     },
     {
-        title: "Course Labs",
-        description: "My personal website to upload my course labs with problem statement, solution and demonstration.",
+        title: "Application Development",
+        description: "My personal website where I upload my course(Interent and Application Development) labs with problem statement, solution and demonstration.",
         link: "http://www.inventory-sys.somee.com/"
      },
     {
