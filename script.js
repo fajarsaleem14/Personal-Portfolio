@@ -17,7 +17,7 @@ const projects = [
     {
         title: "BuddHabit",
         description: "I built this Smart Habit Tracker — a personalized web app that empowers users to build positive habits with motivation tailored just for them!.",
-        link: "http://www.inventory-sys.somee.com/"
+        link: "https://fajarsaleem14.github.io/BuddHabit/"
      },
     {
         title: "Portfolio Website",
