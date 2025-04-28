@@ -15,6 +15,11 @@ const projects = [
         link: "http://www.inventory-sys.somee.com/"
      },
     {
+        title: "BuddHabit",
+        description: "I built this Smart Habit Tracker — a personalized web app that empowers users to build positive habits with motivation tailored just for them!.",
+        link: "http://www.inventory-sys.somee.com/"
+     },
+    {
         title: "Portfolio Website",
         description: "My personal portfolio built with HTML,CSS and Javascript to showcase my projects.",
         link: "https://github.com/fajarsaleem14/Personal-Portfolio.git"
