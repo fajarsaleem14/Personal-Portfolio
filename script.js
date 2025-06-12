@@ -15,6 +15,11 @@ const projects = [
       description: "A fully responsive online store built with HTML, CSS, and JavaScript to showcase and sell premium fashion apparel and accessories.",
       link: "https://fajarsaleem14.github.io/VogueNest/"
     },
+     {
+      title: "BuddHabit",
+      description: "BuddHabit is a habit-tracking web application designed to help users build positive routines through daily progress monitoring and motivational reminders. It offers a simple, user-friendly interface with personalized habit goals and streak tracking.",
+      link: "https://fajarsaleem14.github.io/BuddHabit/"
+    },
     {
         title: "Internet and Application Development",
         description: "My personal website to upload my course labs with problem statement, solution and demonstration.",
