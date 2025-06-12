@@ -4,17 +4,22 @@ const projects = [
       description: "Netflix Clone is a responsive front-end replica of Netflix’s homepage, crafted to highlight my proficiency in HTML, CSS, and JavaScript.",
       link: "https://fajarsaleem14.github.io/Netflix-clone/"
     },
+     {
+        title: "Inventory Management System",
+        description: "The Inventory Management System is a secure ASP.NET Web Forms application using VB.NET for managing products, customers, orders, and shipments. It features role-based access, real-time inventory updates, and a modern dark-themed interface.",
+        link: "http://www.inventory-sys.somee.com/Semester_Project/Login.aspx"
+      },
+    
     {
       title: "VogueNest",
       description: "A fully responsive online store built with HTML, CSS, and JavaScript to showcase and sell premium fashion apparel and accessories.",
       link: "https://fajarsaleem14.github.io/VogueNest/"
     },
     {
-        title: "Application Development",
-        description: "My personal website where I upload my course(Interent and Application Development) labs with problem statement, solution and demonstration.",
+        title: "Internet and Application Development",
+        description: "My personal website to upload my course labs with problem statement, solution and demonstration.",
         link: "http://www.inventory-sys.somee.com/"
      },
-
     {
         title: "Portfolio Website",
         description: "My personal portfolio built with HTML,CSS and Javascript to showcase my projects.",
